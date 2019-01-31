@@ -28,3 +28,4 @@ Features with Issues
 ======================= 
 - Video Live Streaming. Currently not available in the webpages due to connection issues. Streaming also effects apache and current website.
 
+The report for this project can be found here: https://github.com/Smellen/FYPreport
